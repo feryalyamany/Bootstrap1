@@ -207,9 +207,6 @@ body{
     color: var(--yellow);
 }
 
-.footer .icons a:hover{
-    cursor: pointer;
-}
 
 .footer  svg {
     width: 20px;
